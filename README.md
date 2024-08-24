@@ -5,6 +5,7 @@
 *DURATION:* August TO SEPTEMBER 
 *MENTOR:* MUZAMMIL AHMED 
 
+## OVERVIEW OF THE PROJECT:
 
 ![FireShot Capture 004 - Amazon com - ](https://github.com/user-attachments/assets/8479200f-98be-4028-9870-ed41f415d53a)
 
