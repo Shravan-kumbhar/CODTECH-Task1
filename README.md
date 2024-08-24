@@ -5,8 +5,6 @@
 *DURATION:* August TO SEPTEMBER 
 *MENTOR:* MUZAMMIL AHMED 
 
-## OVERVIEW OF THE PROJECT:
-![Uploading FireShot Capture 004 - Amazon.co.png…]()
 ## PROJECT: E-commerce website
 
 ## KEY ACTIVITIES
