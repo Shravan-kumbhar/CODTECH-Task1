@@ -6,7 +6,7 @@
 *MENTOR:* MUZAMMIL AHMED 
 
 ## OVERVIEW OF THE PROJECT:
-![Uploading FireShot Capture 004 - Amazon.com - .png…]()
+![Uploading FireShot Capture 004 - Amazon.co.png…]()
 ## PROJECT: E-commerce website
 
 ## KEY ACTIVITIES
